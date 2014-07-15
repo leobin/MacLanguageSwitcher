@@ -1,0 +1,1 @@
+Simple project for my custom keyboard. Will Add some config abilities later
